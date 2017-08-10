@@ -20,13 +20,11 @@ We follow typical `GitHub flow
 5. Please add directives in your commit log
    message if your pull request closes an open issue, e.g. ``(closes #123)``.
 6. Issue a `pull request <https://help.github.com/articles/creating-a-pull-request-from-a-fork/>`_. 
-   If the branch is not quite ready yet, please indicate ``WIP`` (=work in progress) in the pull request title.
+   If the branch is not quite ready yet, please indicate ``WIP`` (= work in progress) in the pull request title.
    
 Corrections and feature requests
 --------------------------------
 
 If you find a bug/typos or have a feature request, please search for
-`already reported problems
-<https://github.com/cms-opendata-education/cms-jupyter-materials-english/issues>`_ 
+`already reported problems <https://github.com/cms-opendata-education/cms-jupyter-materials-greek/issues>`_ 
 before submitting a new issue.
-
