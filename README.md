@@ -1,4 +1,4 @@
-<font color="blue"> TO BE TRANSLATED </font>
+TO BE TRANSLATED
 # CMS Jupyter materials Greek
 This repository contains material for classroom activities using open data from CMS CERN. <br>
 Materials provide basic introduction to Python and Jupyter Notebooks and ready exercises for the classrooms.<br>
