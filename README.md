@@ -19,4 +19,5 @@ The easiest way is to download the whole repository by clicking *Clone or downlo
 
 ## Contributing
 Development ideas, feature requests, bug reports and further exercises are warmly encouraged and welcome! <br>
-To contribute, see our [Contributing guide](Contributing.rst).
+To contribute, see our 
+[Contributing guide](https://github.com/cms-opendata-education/cms-jupyter-materials-english/blob/master/Contributing.rst).
